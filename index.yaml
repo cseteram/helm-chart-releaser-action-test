@@ -14,6 +14,16 @@ entries:
   foo:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-01-22T10:58:53.36619164Z"
+    description: A Helm chart for Kubernetes
+    digest: 0032824ad39f032c6e755fe807211ddbbeeea4f150a6d566d91ced149d5024cf
+    name: foo
+    type: application
+    urls:
+    - https://github.com/cseteram/helm-chart-releaser-action-test/releases/download/foo-0.1.1/foo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-01-22T10:50:52.753603948Z"
     description: A Helm chart for Kubernetes
     digest: c345023659d215d4a81dd0e3c762698f631b5d36ba7ec7d1cb1edc86ad502617
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/cseteram/helm-chart-releaser-action-test/releases/download/foo-0.1.0/foo-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-22T10:57:26.460225374Z"
+generated: "2025-01-22T10:58:53.366203091Z"
